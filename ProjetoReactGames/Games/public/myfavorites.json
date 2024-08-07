@@ -1,0 +1,116 @@
+{
+  "jogos":[
+    {
+      "id": 5,
+      "titulo": "Minecraft",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox, ", "Switch"],
+      "descricao": "Minecraft é um jogo de construção e aventura onde os jogadores exploram, constroem e sobrevivem em um mundo aberto.",
+      "imagem": "https://cienciahoje.org.br/wp-content/uploads/2020/11/C_C-POP_0fe20042_0bb8_4781_82f4_7130f928b021.jpg",
+      "steam": "https://store.steampowered.com/app/72850/Minecraft/"
+    },
+    {
+      "id": 1,
+      "titulo": "Fortnite",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox, ", "Switch "],
+      "descricao": "Fortnite é um jogo de batalha real onde 100 jogadores competem para ser o último sobrevivente.",
+      "imagem": "https://f.i.uol.com.br/fotografia/2020/05/18/15898209045ec2bde8d74a0_1589820904_3x2_xl.jpg",
+      "steam": "https://store.steampowered.com/app/356560/Fortnite/"
+    },
+    {
+      "id": 16,
+      "titulo": "Red Dead Redemption 2",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox"],
+      "descricao": "Red Dead Redemption 2 é um épico de ação e aventura no Velho Oeste, onde os jogadores exploram um vasto mundo aberto.",
+      "imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1714055653",
+      "steam": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+    },
+    {
+      "id": 17,
+      "titulo": "Cyberpunk 2077",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox"],
+      "descricao": "Cyberpunk 2077 é um RPG de mundo aberto ambientado em Night City, uma cidade futurista obcecada por poder, glamour e modificação corporal.",
+      "imagem": "https://www.cyberpunk.net/build/images/social-thumbnail-en-ddcf4d23.jpg",
+      "steam": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+    },
+    {
+      "id": 18,
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": ["Switch"],
+      "descricao": "The Legend of Zelda: Breath of the Wild é um RPG de ação onde Link explora Hyrule, resolve quebra-cabeças e derrota inimigos.",
+      "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+      "steam": "N/A"
+    },
+    {
+      "id": 19,
+      "titulo": "Elden Ring",
+      "plataforma": ["PlayStation, ", "Xbox, ", "PC"],
+      "descricao": "Elden Ring é um jogo de RPG de ação ambientado nas Terras Intermédias, um vasto mundo aberto repleto de paisagens diversas e perigosas.",
+      "imagem": "https://i.ytimg.com/vi/c9ZB5WvY7f4/maxresdefault.jpg",
+      "steam": "https://store.steampowered.com/app/1245620/Elden_Ring/"
+    },
+    {
+      "id": 4,
+      "titulo": "Apex Legends",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox"],
+      "descricao": "Apex Legends é um jogo de batalha real com personagens lendários e combates intensos.",
+      "imagem": "https://gmedia.playstation.com/is/image/SIEPDC/apex-legends-listing-thumb-01-ps4-en-29oct20?$facebook$",
+      "steam": "https://store.steampowered.com/app/1172470/Apex_Legends/"
+    },
+    {
+      "id": 6,
+      "titulo": "Call of Duty: Warzone",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox"],
+      "descricao": "Call of Duty: Warzone é um jogo de tiro battle royale ambientado no universo Call of Duty.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5f/COD_Warzone.jpg",
+      "steam": "https://store.steampowered.com/app/1597180/Call_of_Duty_Warzone/"
+    },
+    {
+      "id": 7,
+      "titulo": "Genshin Impact",
+      "plataforma": ["PC, ", "PlayStation, ", "Mobile"],
+      "descricao": "Genshin Impact é um RPG de ação com mundo aberto e jogabilidade cooperativa.",
+      "imagem": "https://t2.tudocdn.net/628611?w=1920",
+      "steam": "https://store.steampowered.com/app/1366680/Genshin_Impact/"
+    },
+    {
+      "id": 8,
+      "titulo": "Overwatch",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox"],
+      "descricao": "Overwatch é um jogo de tiro em equipe onde heróis lutam pelo controle de pontos estratégicos.",
+      "imagem": "https://s2-techtudo.glbimg.com/PNJER51BOnQnITDIcY5imE75mN8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/0/B/l8KwmZRfW41RBYwagf6A/6.jpg",
+      "steam": "https://store.steampowered.com/app/379720/Overwatch/"
+    },
+    {
+      "id": 9,
+      "titulo": "FIFA 22",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox, ", "Switch"],
+      "descricao": "FIFA 22 é um simulador de futebol com gráficos realistas e jogabilidade autêntica.",
+      "imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506830/capsule_616x353.jpg?t=1712678728",
+      "steam": "https://store.steampowered.com/app/1506830/FIFA_22/"
+    },
+    {
+      "id": 11,
+      "titulo": "Rocket League",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox, ", "Switch"],
+      "descricao": "Rocket League é um jogo de esportes futurista onde os jogadores controlam carros em partidas de futebol.",
+      "imagem": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-bb7699fad7b5101432236737c8809214",
+      "steam": "https://store.steampowered.com/app/252950/Rocket_League/"
+    },
+    {
+      "id": 12,
+      "titulo": "Among Us",
+      "plataforma": ["PC, ", "Mobile"],
+      "descricao": "Among Us é um jogo de festa multiplayer onde jogadores assumem papéis de tripulantes ou impostores em uma nave espacial.",
+      "imagem": "https://t.ctcdn.com.br/kiMBuNrXfXEQE2Mm225CEL2wTHA=/1200x675/smart/i7632.jpeg",
+      "steam": "https://store.steampowered.com/app/945360/Among_Us/"
+    },
+    {
+      "id": 14,
+      "titulo": "The Witcher 3: Wild Hunt",
+      "plataforma": ["PC, ", "PlayStation, ", "Xbox, ", "Switch"],
+      "descricao": "The Witcher 3: Wild Hunt é um RPG de mundo aberto onde os jogadores controlam Geralt de Rivia em uma jornada épica.",
+      "imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg?t=1716793585",
+      "steam": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+    }
+  ]
+}

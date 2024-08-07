@@ -1,0 +1,75 @@
+.principal {
+    background-color: #000000;
+    color: aliceblue; /* Define a cor padrão do texto para branco */
+    min-height: 100vh;
+  }
+  
+  .home {
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column; /* Alinha os itens verticalmente */
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px; /* Adiciona um espaçamento interno */
+    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total */
+  }
+  
+  .listaJogos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .jogo {
+    display: flex;
+    flex-direction: column; /* Ajusta para coluna */
+    width: 100%;
+    max-width: 400px;
+    height: 92%;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative; /* Adiciona a posição relativa ao contêiner do jogo */
+    padding: 20px; /* Adiciona espaçamento interno */
+  }
+  
+  .jogo img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px; /* Espaçamento abaixo da imagem */
+  }
+  
+  .jogoInfo {
+    flex: 1;
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo escuro */
+    padding: 20px; /* Adiciona um espaçamento interno */
+    border-radius: 4px; /* Adiciona bordas arredondadas */
+  }
+  
+  .jogoInfo h2,
+  .jogoInfo p {
+    color: white; /* Texto branco */
+    margin: 10px 0; /* Espaçamento entre os elementos */
+  }
+  
+  .jogoInfo h2 {
+    font-size: 1.5rem;
+  }
+  
+  .jogoInfo p {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+
+  .listaJogos .jogo {
+    transition: transform 0.3s ease; /* Adiciona uma transição suave */
+    cursor:pointer;
+  }
+
+  .listaJogos .jogo:hover {
+    transform: scale(1.05); /* Aplica o efeito de zoom */
+  }
+  

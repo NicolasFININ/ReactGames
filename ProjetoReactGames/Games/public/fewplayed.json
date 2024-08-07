@@ -1,0 +1,121 @@
+{
+  "jogos": [
+    {
+      "id": 4,
+      "titulo": "Ghost of Tsushima",
+      "plataforma": "PlayStation 4",
+      "descricao": "Um jogo de ação de mundo aberto onde você assume o papel de um samurai durante a invasão mongol do Japão feudal.",
+      "imagem": "https://f.i.uol.com.br/fotografia/2020/07/15/15948400845f0f5414b2801_1594840084_3x2_md.jpg",
+      "url": "https://www.playstation.com/en-us/games/ghost-of-tsushima/",
+      "steam": "N/A"
+    },
+    {
+      "id": 5,
+      "titulo": "Doom Eternal",
+      "plataforma": "PC, PlayStation 4, Xbox One",
+      "descricao": "Um jogo de tiro frenético em primeira pessoa onde você luta contra hordas de demônios do inferno enquanto avança pelo multiverso.",
+      "imagem": "https://assets.xboxservices.com/assets/34/0a/340ada26-49f7-48f1-a572-b27dd6ec766b.jpg?n=DOOM-Eternal_GLP-Page-Hero-0_1083x609_02.jpg",
+      "url": "https://bethesda.net/en/game/doom-eternal",
+      "steam": "https://store.steampowered.com/app/782330/DOOM_Eternal/"
+    },
+    {
+      "id": 9,
+      "titulo": "Ori and the Will of the Wisps",
+      "plataforma": "PC, Xbox One",
+      "descricao": "Um jogo de plataforma e aventura emocionante onde você controla Ori em uma jornada para descobrir seu destino e salvar a floresta de Niwen.",
+      "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000034725/cf74916275780188fd850512efe6c678318d7317bf987599205d2a3fc76dbd79",
+      "url": "https://www.xbox.com/en-US/games/ori-and-the-will-of-the-wisps",
+      "steam": "https://store.steampowered.com/app/976930/Ori_and_the_Will_of_the_Wisps/"
+    },
+    {
+      "id": 11,
+      "titulo": "Watch Dogs: Legion",
+      "plataforma": "PC, PlayStation 4, Xbox One",
+      "descricao": "Entre na luta para liberar Londres de um regime opressor usando hackers habilidosos e recrutando qualquer pessoa que você veja pela frente.",
+      "imagem": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6DHNZGiE9I9DSrmjGB7R69/9b8b2a102273a5ccf01fb4cc5ea1ae71/WDL-meta-home_keyart-thumbnail-960x540.jpg",
+      "url": "https://www.ubisoft.com/en-us/game/watch-dogs-legion",
+      "steam": "https://store.steampowered.com/app/1321640/Watch_Dogs_Legion/"
+    },
+    {
+      "id": 12,
+      "titulo": "Demon's Souls",
+      "plataforma": "PlayStation 5",
+      "descricao": "Explore o reino de Boletaria e enfrente desafios mortais enquanto descobre a verdade por trás da maldição que assola a terra.",
+      "imagem": "https://psxbrasil.com.br/wp-content/uploads/2020/09/demonsssouls.jpg",
+      "url": "https://www.playstation.com/en-us/games/demons-souls/",
+      "steam": "N/A"
+    },
+    {
+      "id": 13,
+      "titulo": "Microsoft Flight Simulator",
+      "plataforma": "PC, Xbox Series X/S",
+      "descricao": "Experimente a sensação de voar com detalhes realistas em uma simulação de voo impressionante que abrange todo o mundo.",
+      "imagem": "https://i.ytimg.com/vi/l_F20n8BwME/maxresdefault.jpg",
+      "url": "https://www.microsoft.com/en-us/microsoft-flight-simulator",
+      "steam": "https://store.steampowered.com/app/1250410/M"
+    },
+      {
+        "id": 14,
+        "titulo": "Yakuza: Like a Dragon",
+        "plataforma": "PC, PlayStation 4, Xbox One",
+        "descricao": "Viva a vida de Ichiban Kasuga enquanto ele embarca em uma jornada para se tornar um herói em Yokohama, Japão.",
+        "imagem": "https://i.redd.it/5rn2gq4d7fc51.png",
+        "url": "https://www.sega.com/games/yakuza-like-a-dragon",
+        "steam": "https://store.steampowered.com/app/1237950/Yakuza_Like_a_Dragon/"
+      },
+      {
+        "id": 15,
+        "titulo": "Crusader Kings III",
+        "plataforma": "PC",
+        "descricao": "Assuma o controle de uma dinastia medieval e lide com intrigas políticas, casamentos estratégicos e guerras enquanto expande seu império.",
+        "imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg?t=1719579008",
+        "url": "https://www.paradoxplaza.com/crusader-kings-iii/",
+        "steam": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/"
+      },
+      {
+        "id": 16,
+        "titulo": "Tony Hawk's Pro Skater 1 + 2",
+        "plataforma": "PC, PlayStation 4, Xbox One",
+        "descricao": "Reviva os clássicos jogos de skate com gráficos renovados e novas funcionalidades que capturam a essência do skateboarding.",
+        "imagem": "https://sm.ign.com/ign_br/screenshot/default/tony-hawks-pro-skater-1-2-review_s521.jpg",
+        "url": "https://www.activision.com/tony-hawks-pro-skater-1-and-2",
+        "steam": "https://store.steampowered.com/app/1245620/Tony_Hawks_Pro_Skater_1_2/"
+      },
+      {
+        "id": 19,
+        "titulo": "Immortals Fenyx Rising",
+        "plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch",
+        "descricao": "Desvende os mistérios do Olimpo e enfrente criaturas mitológicas enquanto assume o papel de Fenyx, um semideus em uma jornada épica.",
+        "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000021933/1c53ad2b39a5911e89fc48cadb879c81b6f959e9058d3d063404e8b29657d3ec",
+        "url": "https://www.ubisoft.com/en-us/game/immortals-fenyx-rising",
+        "steam": "https://store.steampowered.com/app/1315530/Immortals_Fenyx_Rising/"
+      },
+      {
+        "id": 20,
+        "titulo": "Persona 5 Royal",
+        "plataforma": "PlayStation 4",
+        "descricao": "Reviva a premiada história de Persona 5 com novos personagens, locais e mecânicas de jogo aprimoradas.",
+        "imagem": "https://wallpapers.com/images/hd/persona-5-royal-joker-and-sumire-zyfxvhytgznpm7ih.jpg",
+        "url": "https://atlus.com/persona5royal/",
+        "steam": "N/A"
+      },
+      {
+        "id": 21,
+        "titulo": "Sackboy: A Big Adventure",
+        "plataforma": "PlayStation 4, PlayStation 5",
+        "descricao": "Participe de uma aventura de plataforma divertida e cheia de charme com o querido Sackboy.",
+        "imagem": "https://i.ytimg.com/vi/ITRdOmv8NQI/maxresdefault.jpg",
+        "url": "https://www.playstation.com/en-us/games/sackboy-a-big-adventure/",
+        "steam": "N/A"
+      },
+      {
+        "id": 24,
+        "titulo": "Star Wars: Squadrons",
+        "plataforma": "PC, PlayStation 4, Xbox One",
+        "descricao": "Participe de batalhas espaciais emocionantes entre a Nova República e o Império Galáctico.",
+        "imagem": "https://i.ytimg.com/vi_webp/okBnqBastEM/maxresdefault.webp",
+        "url": "https://www.ea.com/games/starwars/squadrons",
+        "steam": "https://store.steampowered.com/app/1222730/Star_Wars_Squadrons/"
+      }
+    ]
+  } 

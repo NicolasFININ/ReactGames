@@ -1,0 +1,93 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "titulo": "The Last of Us Part II",
+      "plataforma": "PlayStation 4",
+      "descricao": "Uma sequência emocionante que continua a história de Ellie em um mundo pós-apocalíptico repleto de ação e drama.",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1717/827d78b1eb9155e1383cc43bafeb4c900eb7157bf8b1a65a.jpg",
+      "steam": "https://store.steampowered.com/app/976590/Ori_and_the_Will_of_the_Wisps/"
+    },
+    {
+      "id": 2,
+      "titulo": "Cyberpunk 2077",
+      "plataforma": "PC, PlayStation 4, Xbox One",
+      "descricao": "Um RPG de mundo aberto ambientado em Night City, um futuro distópico onde você assume o papel de um mercenário em busca de um implante único que garante a imortalidade.",
+      "imagem": "https://www.cyberpunk.net/build/images/social-thumbnail-en-ddcf4d23.jpg",
+      "url": "https://www.cyberpunk.net/",
+      "steam": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+    },
+    {
+      "id": 6,
+      "titulo": "Assassin's Creed Valhalla",
+      "plataforma": "PC, PlayStation 4, Xbox One",
+      "descricao": "Explore a era dos vikings como Eivor, um guerreiro viking em busca de glória e um novo lar em terras inglesas hostis.",
+      "imagem": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZAlQrGYxXi8Bo8PuhJd5g/206c57ecb27e58b4555089c6c80d3db5/ACV_meta.png",
+      "url": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla",
+      "steam": "https://store.steampowered.com/app/1244180/Assassins_Creed_Valhalla/"
+    },
+    {
+      "id": 7,
+      "titulo": "Hades",
+      "plataforma": "PC, Nintendo Switch",
+      "descricao": "Um roguelike dungeon crawler onde você assume o papel de Zagreus, filho do deus grego Hades, em busca de escapar do submundo.",
+      "imagem": "https://cdn1.epicgames.com/min/offer/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
+      "url": "https://www.supergiantgames.com/games/hades/",
+      "steam": "https://store.steampowered.com/app/1145360/Hades/"
+    },
+    {
+      "id": 8,
+      "titulo": "Final Fantasy VII Remake",
+      "plataforma": "PlayStation 4",
+      "descricao": "Reviva a épica história de Cloud Strife e seus aliados em uma recriação impressionante do clássico RPG de 1997.",
+      "imagem": "https://cdn1.epicgames.com/offer/6f43ab8025ad42d18510aa91e9eb688b/EGS_FINALFANTASYVIIREMAKEINTERGRADE_SquareEnix_S1_2560x1440-85f829541a833442eaace75d02e0f07d",
+      "url": "https://www.finalfantasyvii.com/",
+      "steam": "https://store.playstation.com/pt-br/product/UP0082-CUSA07211_00-FFVIIREMAKE00000"
+    },
+    {
+      "id": 17,
+      "titulo": "Genshin Impact",
+      "plataforma": "PC, PlayStation 4, iOS, Android",
+      "descricao": "Explore um vasto mundo de fantasia aberto, reunindo uma equipe de personagens únicos e dominando poderosos elementos.",
+      "imagem": "https://wallpapers.com/images/featured/genshin-impact-pictures-wlq3ykrxbaoadjow.jpg",
+      "url": "https://genshin.mihoyo.com/",
+      "steam": "https://store.steampowered.com/app/1593950/Genshin_Impact/"
+    },
+    {
+      "id": 18,
+      "titulo": "Call of Duty: Black Ops Cold War",
+      "plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+      "descricao": "Entre na Guerra Fria como operativo e participe de operações secretas e confrontos intensos em locais icônicos ao redor do mundo.",
+      "imagem": "https://wallpapers.com/images/featured/call-of-duty-black-ops-cold-war-h7f1u8bsui55sbki.jpg",
+      "url": "https://www.callofduty.com/blackopscoldwar",
+      "steam": "https://store.steampowered.com/app/1286480/Call_of_Duty_Black_Ops_Cold_War/"
+    },
+    {
+      "id": 23,
+      "titulo": "Mortal Kombat 11: Ultimate",
+      "plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+      "descricao": "Entre na luta como guerreiros lendários e novos personagens em um torneio mortal onde apenas os mais fortes sobreviverão.",
+      "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/dlc/switch-dlc/mortal-kombat-11-dlc/rom-bundle/mortal-kombat-11-ultimate/image",
+      "url": "https://www.mortalkombat.com/",
+      "steam": "https://store.steampowered.com/app/976310/Mortal_Kombat_11_Ultimate/"
+    },
+    {
+      "id": 26,
+      "titulo": "Among Us",
+      "plataforma": "PC, iOS, Android",
+      "descricao": "Um jogo de festa multiplayer online onde você trabalha em equipe para completar tarefas enquanto tenta descobrir quem é o impostor entre vocês.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHb0RKlQ-4Y85oXi7SzsObp0p7DixdYXJRdnpr8MP5He53bTQAD3q-MuXqXThEpvpEH4&usqp=CAU",
+      "url": "https://innersloth.com/games/among-us/",
+      "steam": "https://store.steampowered.com/app/945360/Among_Us/"
+    },
+    {
+      "id": 27,
+      "titulo": "Marvel's Spider-Man: Miles Morales",
+      "plataforma": "PlayStation 4, PlayStation 5",
+      "descricao": "Assuma o papel de Miles Morales, o novo Spider-Man, e defenda Nova York contra novas ameaças enquanto aprende a equilibrar sua vida pessoal.",
+      "imagem": "https://i.ytimg.com/vi/tLF54vJfvPI/sddefault.jpg",
+      "url": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "steam": "https://www.playstation.com/pt-br/games/marvels-spider-man-miles-morales/"
+    }
+  ]
+}
